@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-cunha-8b707423a)](https://www.linkedin.com/in/guilherme-cunha-8b707423a)
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCCunha&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCCunha&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCCunha&langs_count=8&layout=compact)](https://github.com/GuilhermeCCunha)
 
 ## Tecnologias que eu uso no meu dia
 
