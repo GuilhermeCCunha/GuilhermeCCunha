@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Guilherme Cunha 👋
 
+### Contato
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-cunha-8b707423a)](https://www.linkedin.com/in/guilherme-cunha-8b707423a)
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCCunha&show_icons=true&theme=tokyonight&count_private=true)
